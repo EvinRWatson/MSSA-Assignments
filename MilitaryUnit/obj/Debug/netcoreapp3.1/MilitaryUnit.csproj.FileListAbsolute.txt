@@ -1,0 +1,13 @@
+C:\Users\EvinW\source\repos\MilitaryUnit\obj\Debug\netcoreapp3.1\MilitaryUnit.csprojAssemblyReference.cache
+C:\Users\EvinW\source\repos\MilitaryUnit\obj\Debug\netcoreapp3.1\MilitaryUnit.AssemblyInfoInputs.cache
+C:\Users\EvinW\source\repos\MilitaryUnit\obj\Debug\netcoreapp3.1\MilitaryUnit.AssemblyInfo.cs
+C:\Users\EvinW\source\repos\MilitaryUnit\obj\Debug\netcoreapp3.1\MilitaryUnit.csproj.CoreCompileInputs.cache
+C:\Users\EvinW\source\repos\MilitaryUnit\bin\Debug\netcoreapp3.1\MilitaryUnit.exe
+C:\Users\EvinW\source\repos\MilitaryUnit\bin\Debug\netcoreapp3.1\MilitaryUnit.deps.json
+C:\Users\EvinW\source\repos\MilitaryUnit\bin\Debug\netcoreapp3.1\MilitaryUnit.runtimeconfig.json
+C:\Users\EvinW\source\repos\MilitaryUnit\bin\Debug\netcoreapp3.1\MilitaryUnit.runtimeconfig.dev.json
+C:\Users\EvinW\source\repos\MilitaryUnit\bin\Debug\netcoreapp3.1\MilitaryUnit.dll
+C:\Users\EvinW\source\repos\MilitaryUnit\bin\Debug\netcoreapp3.1\MilitaryUnit.pdb
+C:\Users\EvinW\source\repos\MilitaryUnit\obj\Debug\netcoreapp3.1\MilitaryUnit.dll
+C:\Users\EvinW\source\repos\MilitaryUnit\obj\Debug\netcoreapp3.1\MilitaryUnit.pdb
+C:\Users\EvinW\source\repos\MilitaryUnit\obj\Debug\netcoreapp3.1\MilitaryUnit.genruntimeconfig.cache

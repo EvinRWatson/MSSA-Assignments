@@ -1,0 +1,16 @@
+C:\Users\EvinW\source\repos\Key-ValueStore\bin\Debug\net5.0\Key-ValueStore.exe
+C:\Users\EvinW\source\repos\Key-ValueStore\bin\Debug\net5.0\Key-ValueStore.deps.json
+C:\Users\EvinW\source\repos\Key-ValueStore\bin\Debug\net5.0\Key-ValueStore.runtimeconfig.json
+C:\Users\EvinW\source\repos\Key-ValueStore\bin\Debug\net5.0\Key-ValueStore.runtimeconfig.dev.json
+C:\Users\EvinW\source\repos\Key-ValueStore\bin\Debug\net5.0\Key-ValueStore.dll
+C:\Users\EvinW\source\repos\Key-ValueStore\bin\Debug\net5.0\ref\Key-ValueStore.dll
+C:\Users\EvinW\source\repos\Key-ValueStore\bin\Debug\net5.0\Key-ValueStore.pdb
+C:\Users\EvinW\source\repos\Key-ValueStore\obj\Debug\net5.0\Key-ValueStore.csprojAssemblyReference.cache
+C:\Users\EvinW\source\repos\Key-ValueStore\obj\Debug\net5.0\Key-ValueStore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EvinW\source\repos\Key-ValueStore\obj\Debug\net5.0\Key-ValueStore.AssemblyInfoInputs.cache
+C:\Users\EvinW\source\repos\Key-ValueStore\obj\Debug\net5.0\Key-ValueStore.AssemblyInfo.cs
+C:\Users\EvinW\source\repos\Key-ValueStore\obj\Debug\net5.0\Key-ValueStore.csproj.CoreCompileInputs.cache
+C:\Users\EvinW\source\repos\Key-ValueStore\obj\Debug\net5.0\Key-ValueStore.dll
+C:\Users\EvinW\source\repos\Key-ValueStore\obj\Debug\net5.0\ref\Key-ValueStore.dll
+C:\Users\EvinW\source\repos\Key-ValueStore\obj\Debug\net5.0\Key-ValueStore.pdb
+C:\Users\EvinW\source\repos\Key-ValueStore\obj\Debug\net5.0\Key-ValueStore.genruntimeconfig.cache

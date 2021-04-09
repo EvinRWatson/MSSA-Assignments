@@ -1,0 +1,16 @@
+C:\Users\EvinW\source\repos\NumberConversion\bin\Debug\net5.0\NumberConversion.exe
+C:\Users\EvinW\source\repos\NumberConversion\bin\Debug\net5.0\NumberConversion.deps.json
+C:\Users\EvinW\source\repos\NumberConversion\bin\Debug\net5.0\NumberConversion.runtimeconfig.json
+C:\Users\EvinW\source\repos\NumberConversion\bin\Debug\net5.0\NumberConversion.runtimeconfig.dev.json
+C:\Users\EvinW\source\repos\NumberConversion\bin\Debug\net5.0\NumberConversion.dll
+C:\Users\EvinW\source\repos\NumberConversion\bin\Debug\net5.0\ref\NumberConversion.dll
+C:\Users\EvinW\source\repos\NumberConversion\bin\Debug\net5.0\NumberConversion.pdb
+C:\Users\EvinW\source\repos\NumberConversion\obj\Debug\net5.0\NumberConversion.csprojAssemblyReference.cache
+C:\Users\EvinW\source\repos\NumberConversion\obj\Debug\net5.0\NumberConversion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EvinW\source\repos\NumberConversion\obj\Debug\net5.0\NumberConversion.AssemblyInfoInputs.cache
+C:\Users\EvinW\source\repos\NumberConversion\obj\Debug\net5.0\NumberConversion.AssemblyInfo.cs
+C:\Users\EvinW\source\repos\NumberConversion\obj\Debug\net5.0\NumberConversion.csproj.CoreCompileInputs.cache
+C:\Users\EvinW\source\repos\NumberConversion\obj\Debug\net5.0\NumberConversion.dll
+C:\Users\EvinW\source\repos\NumberConversion\obj\Debug\net5.0\ref\NumberConversion.dll
+C:\Users\EvinW\source\repos\NumberConversion\obj\Debug\net5.0\NumberConversion.pdb
+C:\Users\EvinW\source\repos\NumberConversion\obj\Debug\net5.0\NumberConversion.genruntimeconfig.cache

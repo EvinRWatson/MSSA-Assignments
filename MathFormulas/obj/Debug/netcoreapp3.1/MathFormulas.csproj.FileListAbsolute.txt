@@ -1,0 +1,12 @@
+C:\Users\EvinW\source\repos\MathFormulas\bin\Debug\netcoreapp3.1\MathFormulas.exe
+C:\Users\EvinW\source\repos\MathFormulas\bin\Debug\netcoreapp3.1\MathFormulas.deps.json
+C:\Users\EvinW\source\repos\MathFormulas\bin\Debug\netcoreapp3.1\MathFormulas.runtimeconfig.json
+C:\Users\EvinW\source\repos\MathFormulas\bin\Debug\netcoreapp3.1\MathFormulas.runtimeconfig.dev.json
+C:\Users\EvinW\source\repos\MathFormulas\bin\Debug\netcoreapp3.1\MathFormulas.dll
+C:\Users\EvinW\source\repos\MathFormulas\bin\Debug\netcoreapp3.1\MathFormulas.pdb
+C:\Users\EvinW\source\repos\MathFormulas\obj\Debug\netcoreapp3.1\MathFormulas.AssemblyInfoInputs.cache
+C:\Users\EvinW\source\repos\MathFormulas\obj\Debug\netcoreapp3.1\MathFormulas.AssemblyInfo.cs
+C:\Users\EvinW\source\repos\MathFormulas\obj\Debug\netcoreapp3.1\MathFormulas.csproj.CoreCompileInputs.cache
+C:\Users\EvinW\source\repos\MathFormulas\obj\Debug\netcoreapp3.1\MathFormulas.dll
+C:\Users\EvinW\source\repos\MathFormulas\obj\Debug\netcoreapp3.1\MathFormulas.pdb
+C:\Users\EvinW\source\repos\MathFormulas\obj\Debug\netcoreapp3.1\MathFormulas.genruntimeconfig.cache

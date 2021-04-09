@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "mRJ022TU+DORIngOIWeT98wUY21CP/XQo9dSc6/KohM50p+WAJHrmUbKhOuFTeNDq7HoFd6yLMLshwvd+/AEVg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\EvinW\\source\\repos\\MonteCarloMethod\\MonteCarloMethod.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\EvinW\\.nuget\\packages\\system.valuetuple\\4.5.0\\system.valuetuple.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

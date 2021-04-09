@@ -1,0 +1,13 @@
+C:\Users\EvinW\source\repos\CalculatingAverages\bin\Debug\netcoreapp3.1\CalculatingAverages.exe
+C:\Users\EvinW\source\repos\CalculatingAverages\bin\Debug\netcoreapp3.1\CalculatingAverages.deps.json
+C:\Users\EvinW\source\repos\CalculatingAverages\bin\Debug\netcoreapp3.1\CalculatingAverages.runtimeconfig.json
+C:\Users\EvinW\source\repos\CalculatingAverages\bin\Debug\netcoreapp3.1\CalculatingAverages.runtimeconfig.dev.json
+C:\Users\EvinW\source\repos\CalculatingAverages\bin\Debug\netcoreapp3.1\CalculatingAverages.dll
+C:\Users\EvinW\source\repos\CalculatingAverages\bin\Debug\netcoreapp3.1\CalculatingAverages.pdb
+C:\Users\EvinW\source\repos\CalculatingAverages\obj\Debug\netcoreapp3.1\CalculatingAverages.csprojAssemblyReference.cache
+C:\Users\EvinW\source\repos\CalculatingAverages\obj\Debug\netcoreapp3.1\CalculatingAverages.AssemblyInfoInputs.cache
+C:\Users\EvinW\source\repos\CalculatingAverages\obj\Debug\netcoreapp3.1\CalculatingAverages.AssemblyInfo.cs
+C:\Users\EvinW\source\repos\CalculatingAverages\obj\Debug\netcoreapp3.1\CalculatingAverages.csproj.CoreCompileInputs.cache
+C:\Users\EvinW\source\repos\CalculatingAverages\obj\Debug\netcoreapp3.1\CalculatingAverages.dll
+C:\Users\EvinW\source\repos\CalculatingAverages\obj\Debug\netcoreapp3.1\CalculatingAverages.pdb
+C:\Users\EvinW\source\repos\CalculatingAverages\obj\Debug\netcoreapp3.1\CalculatingAverages.genruntimeconfig.cache

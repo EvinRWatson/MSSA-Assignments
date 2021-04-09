@@ -1,0 +1,16 @@
+C:\Users\EvinW\source\repos\VectorDistance\bin\Debug\net5.0\VectorDistance.exe
+C:\Users\EvinW\source\repos\VectorDistance\bin\Debug\net5.0\VectorDistance.deps.json
+C:\Users\EvinW\source\repos\VectorDistance\bin\Debug\net5.0\VectorDistance.runtimeconfig.json
+C:\Users\EvinW\source\repos\VectorDistance\bin\Debug\net5.0\VectorDistance.runtimeconfig.dev.json
+C:\Users\EvinW\source\repos\VectorDistance\bin\Debug\net5.0\VectorDistance.dll
+C:\Users\EvinW\source\repos\VectorDistance\bin\Debug\net5.0\ref\VectorDistance.dll
+C:\Users\EvinW\source\repos\VectorDistance\bin\Debug\net5.0\VectorDistance.pdb
+C:\Users\EvinW\source\repos\VectorDistance\obj\Debug\net5.0\VectorDistance.csprojAssemblyReference.cache
+C:\Users\EvinW\source\repos\VectorDistance\obj\Debug\net5.0\VectorDistance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EvinW\source\repos\VectorDistance\obj\Debug\net5.0\VectorDistance.AssemblyInfoInputs.cache
+C:\Users\EvinW\source\repos\VectorDistance\obj\Debug\net5.0\VectorDistance.AssemblyInfo.cs
+C:\Users\EvinW\source\repos\VectorDistance\obj\Debug\net5.0\VectorDistance.csproj.CoreCompileInputs.cache
+C:\Users\EvinW\source\repos\VectorDistance\obj\Debug\net5.0\VectorDistance.dll
+C:\Users\EvinW\source\repos\VectorDistance\obj\Debug\net5.0\ref\VectorDistance.dll
+C:\Users\EvinW\source\repos\VectorDistance\obj\Debug\net5.0\VectorDistance.pdb
+C:\Users\EvinW\source\repos\VectorDistance\obj\Debug\net5.0\VectorDistance.genruntimeconfig.cache

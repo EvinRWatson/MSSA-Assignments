@@ -1,0 +1,13 @@
+C:\Users\EvinW\source\repos\MathsApp\bin\Debug\netcoreapp3.1\MathsApp.exe
+C:\Users\EvinW\source\repos\MathsApp\bin\Debug\netcoreapp3.1\MathsApp.deps.json
+C:\Users\EvinW\source\repos\MathsApp\bin\Debug\netcoreapp3.1\MathsApp.runtimeconfig.json
+C:\Users\EvinW\source\repos\MathsApp\bin\Debug\netcoreapp3.1\MathsApp.runtimeconfig.dev.json
+C:\Users\EvinW\source\repos\MathsApp\bin\Debug\netcoreapp3.1\MathsApp.dll
+C:\Users\EvinW\source\repos\MathsApp\bin\Debug\netcoreapp3.1\MathsApp.pdb
+C:\Users\EvinW\source\repos\MathsApp\obj\Debug\netcoreapp3.1\MathsApp.csprojAssemblyReference.cache
+C:\Users\EvinW\source\repos\MathsApp\obj\Debug\netcoreapp3.1\MathsApp.AssemblyInfoInputs.cache
+C:\Users\EvinW\source\repos\MathsApp\obj\Debug\netcoreapp3.1\MathsApp.AssemblyInfo.cs
+C:\Users\EvinW\source\repos\MathsApp\obj\Debug\netcoreapp3.1\MathsApp.csproj.CoreCompileInputs.cache
+C:\Users\EvinW\source\repos\MathsApp\obj\Debug\netcoreapp3.1\MathsApp.dll
+C:\Users\EvinW\source\repos\MathsApp\obj\Debug\netcoreapp3.1\MathsApp.pdb
+C:\Users\EvinW\source\repos\MathsApp\obj\Debug\netcoreapp3.1\MathsApp.genruntimeconfig.cache

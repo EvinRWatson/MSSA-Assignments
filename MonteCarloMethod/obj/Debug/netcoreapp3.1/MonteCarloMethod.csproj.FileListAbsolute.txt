@@ -1,0 +1,13 @@
+C:\Users\EvinW\source\repos\MonteCarloMethod\bin\Debug\netcoreapp3.1\MonteCarloMethod.exe
+C:\Users\EvinW\source\repos\MonteCarloMethod\bin\Debug\netcoreapp3.1\MonteCarloMethod.deps.json
+C:\Users\EvinW\source\repos\MonteCarloMethod\bin\Debug\netcoreapp3.1\MonteCarloMethod.runtimeconfig.json
+C:\Users\EvinW\source\repos\MonteCarloMethod\bin\Debug\netcoreapp3.1\MonteCarloMethod.runtimeconfig.dev.json
+C:\Users\EvinW\source\repos\MonteCarloMethod\bin\Debug\netcoreapp3.1\MonteCarloMethod.dll
+C:\Users\EvinW\source\repos\MonteCarloMethod\bin\Debug\netcoreapp3.1\MonteCarloMethod.pdb
+C:\Users\EvinW\source\repos\MonteCarloMethod\obj\Debug\netcoreapp3.1\MonteCarloMethod.csprojAssemblyReference.cache
+C:\Users\EvinW\source\repos\MonteCarloMethod\obj\Debug\netcoreapp3.1\MonteCarloMethod.AssemblyInfoInputs.cache
+C:\Users\EvinW\source\repos\MonteCarloMethod\obj\Debug\netcoreapp3.1\MonteCarloMethod.AssemblyInfo.cs
+C:\Users\EvinW\source\repos\MonteCarloMethod\obj\Debug\netcoreapp3.1\MonteCarloMethod.csproj.CoreCompileInputs.cache
+C:\Users\EvinW\source\repos\MonteCarloMethod\obj\Debug\netcoreapp3.1\MonteCarloMethod.dll
+C:\Users\EvinW\source\repos\MonteCarloMethod\obj\Debug\netcoreapp3.1\MonteCarloMethod.pdb
+C:\Users\EvinW\source\repos\MonteCarloMethod\obj\Debug\netcoreapp3.1\MonteCarloMethod.genruntimeconfig.cache

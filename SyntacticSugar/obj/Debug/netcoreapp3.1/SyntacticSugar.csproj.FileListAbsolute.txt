@@ -1,0 +1,13 @@
+C:\Users\EvinW\source\repos\SyntacticSugar\bin\Debug\netcoreapp3.1\SyntacticSugar.exe
+C:\Users\EvinW\source\repos\SyntacticSugar\bin\Debug\netcoreapp3.1\SyntacticSugar.deps.json
+C:\Users\EvinW\source\repos\SyntacticSugar\bin\Debug\netcoreapp3.1\SyntacticSugar.runtimeconfig.json
+C:\Users\EvinW\source\repos\SyntacticSugar\bin\Debug\netcoreapp3.1\SyntacticSugar.runtimeconfig.dev.json
+C:\Users\EvinW\source\repos\SyntacticSugar\bin\Debug\netcoreapp3.1\SyntacticSugar.dll
+C:\Users\EvinW\source\repos\SyntacticSugar\bin\Debug\netcoreapp3.1\SyntacticSugar.pdb
+C:\Users\EvinW\source\repos\SyntacticSugar\obj\Debug\netcoreapp3.1\SyntacticSugar.csprojAssemblyReference.cache
+C:\Users\EvinW\source\repos\SyntacticSugar\obj\Debug\netcoreapp3.1\SyntacticSugar.AssemblyInfoInputs.cache
+C:\Users\EvinW\source\repos\SyntacticSugar\obj\Debug\netcoreapp3.1\SyntacticSugar.AssemblyInfo.cs
+C:\Users\EvinW\source\repos\SyntacticSugar\obj\Debug\netcoreapp3.1\SyntacticSugar.csproj.CoreCompileInputs.cache
+C:\Users\EvinW\source\repos\SyntacticSugar\obj\Debug\netcoreapp3.1\SyntacticSugar.dll
+C:\Users\EvinW\source\repos\SyntacticSugar\obj\Debug\netcoreapp3.1\SyntacticSugar.pdb
+C:\Users\EvinW\source\repos\SyntacticSugar\obj\Debug\netcoreapp3.1\SyntacticSugar.genruntimeconfig.cache
