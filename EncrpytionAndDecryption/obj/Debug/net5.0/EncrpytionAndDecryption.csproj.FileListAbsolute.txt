@@ -1,0 +1,16 @@
+C:\Users\EvinW\Documents\MSSA-Assignments\EncrpytionAndDecryption\bin\Debug\net5.0\EncrpytionAndDecryption.exe
+C:\Users\EvinW\Documents\MSSA-Assignments\EncrpytionAndDecryption\bin\Debug\net5.0\EncrpytionAndDecryption.deps.json
+C:\Users\EvinW\Documents\MSSA-Assignments\EncrpytionAndDecryption\bin\Debug\net5.0\EncrpytionAndDecryption.runtimeconfig.json
+C:\Users\EvinW\Documents\MSSA-Assignments\EncrpytionAndDecryption\bin\Debug\net5.0\EncrpytionAndDecryption.runtimeconfig.dev.json
+C:\Users\EvinW\Documents\MSSA-Assignments\EncrpytionAndDecryption\bin\Debug\net5.0\EncrpytionAndDecryption.dll
+C:\Users\EvinW\Documents\MSSA-Assignments\EncrpytionAndDecryption\bin\Debug\net5.0\ref\EncrpytionAndDecryption.dll
+C:\Users\EvinW\Documents\MSSA-Assignments\EncrpytionAndDecryption\bin\Debug\net5.0\EncrpytionAndDecryption.pdb
+C:\Users\EvinW\Documents\MSSA-Assignments\EncrpytionAndDecryption\obj\Debug\net5.0\EncrpytionAndDecryption.csprojAssemblyReference.cache
+C:\Users\EvinW\Documents\MSSA-Assignments\EncrpytionAndDecryption\obj\Debug\net5.0\EncrpytionAndDecryption.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EvinW\Documents\MSSA-Assignments\EncrpytionAndDecryption\obj\Debug\net5.0\EncrpytionAndDecryption.AssemblyInfoInputs.cache
+C:\Users\EvinW\Documents\MSSA-Assignments\EncrpytionAndDecryption\obj\Debug\net5.0\EncrpytionAndDecryption.AssemblyInfo.cs
+C:\Users\EvinW\Documents\MSSA-Assignments\EncrpytionAndDecryption\obj\Debug\net5.0\EncrpytionAndDecryption.csproj.CoreCompileInputs.cache
+C:\Users\EvinW\Documents\MSSA-Assignments\EncrpytionAndDecryption\obj\Debug\net5.0\EncrpytionAndDecryption.dll
+C:\Users\EvinW\Documents\MSSA-Assignments\EncrpytionAndDecryption\obj\Debug\net5.0\ref\EncrpytionAndDecryption.dll
+C:\Users\EvinW\Documents\MSSA-Assignments\EncrpytionAndDecryption\obj\Debug\net5.0\EncrpytionAndDecryption.pdb
+C:\Users\EvinW\Documents\MSSA-Assignments\EncrpytionAndDecryption\obj\Debug\net5.0\EncrpytionAndDecryption.genruntimeconfig.cache
