@@ -1,0 +1,16 @@
+C:\Users\EvinW\Documents\MSSA-Assignments\ParseCSV\bin\Debug\net5.0\ParseCSV.exe
+C:\Users\EvinW\Documents\MSSA-Assignments\ParseCSV\bin\Debug\net5.0\ParseCSV.deps.json
+C:\Users\EvinW\Documents\MSSA-Assignments\ParseCSV\bin\Debug\net5.0\ParseCSV.runtimeconfig.json
+C:\Users\EvinW\Documents\MSSA-Assignments\ParseCSV\bin\Debug\net5.0\ParseCSV.runtimeconfig.dev.json
+C:\Users\EvinW\Documents\MSSA-Assignments\ParseCSV\bin\Debug\net5.0\ParseCSV.dll
+C:\Users\EvinW\Documents\MSSA-Assignments\ParseCSV\bin\Debug\net5.0\ref\ParseCSV.dll
+C:\Users\EvinW\Documents\MSSA-Assignments\ParseCSV\bin\Debug\net5.0\ParseCSV.pdb
+C:\Users\EvinW\Documents\MSSA-Assignments\ParseCSV\obj\Debug\net5.0\ParseCSV.csprojAssemblyReference.cache
+C:\Users\EvinW\Documents\MSSA-Assignments\ParseCSV\obj\Debug\net5.0\ParseCSV.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EvinW\Documents\MSSA-Assignments\ParseCSV\obj\Debug\net5.0\ParseCSV.AssemblyInfoInputs.cache
+C:\Users\EvinW\Documents\MSSA-Assignments\ParseCSV\obj\Debug\net5.0\ParseCSV.AssemblyInfo.cs
+C:\Users\EvinW\Documents\MSSA-Assignments\ParseCSV\obj\Debug\net5.0\ParseCSV.csproj.CoreCompileInputs.cache
+C:\Users\EvinW\Documents\MSSA-Assignments\ParseCSV\obj\Debug\net5.0\ParseCSV.dll
+C:\Users\EvinW\Documents\MSSA-Assignments\ParseCSV\obj\Debug\net5.0\ref\ParseCSV.dll
+C:\Users\EvinW\Documents\MSSA-Assignments\ParseCSV\obj\Debug\net5.0\ParseCSV.pdb
+C:\Users\EvinW\Documents\MSSA-Assignments\ParseCSV\obj\Debug\net5.0\ParseCSV.genruntimeconfig.cache
